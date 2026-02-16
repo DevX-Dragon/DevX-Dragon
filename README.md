@@ -13,7 +13,7 @@
 ### 🐲 About Me
 I'm a **self-taught developer** from Sri Lanka. I dedicate my time to building projects that are either highly functional or just plain fun. I don't stick to one language—I pick the best tool for the job, whether it's for the web, mobile, or desktop.
 
-* 🚀 **Current Project:** Working on a ```2D CNC Drawer/Plotter.``` ```Day 3```
+* 🚀 **Current Project:** Working on  ```2D CNC Drawer/Plotter``` (Day ```4```)  and  ``` A Smart Watch ``` (Day ```5```)
 * 💡 **Interests:** Software Architecture, UI/UX Design, and a deep interest in PCB Design.
 * 🎓 **Education:** 14-year-old student balancing school and code.
 * 📫 **Reach me:** [tempzdragon@gmail.com](mailto:tempzdragon@gmail.com)
