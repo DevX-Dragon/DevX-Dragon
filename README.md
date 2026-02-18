@@ -11,7 +11,7 @@
 ---
 
 ### 🐲 About Me
-I'm a **self-taught developer** from Sri Lanka. I dedicate my time to building projects that are either highly functional or just plain fun. I don't stick to one language—I pick the best tool for the job, whether it's for the web, mobile, or desktop.
+I'm a **self-taught developer** from Sri Lanka. I dedicate my time to building projects that are either highly functional or just plain fun. I don't have a single fav language. I pick the best tool for the job, whether it's for the web, mobile, or desktop.
 
 * 🚀 **Current Project:** Working on  ```2D CNC Drawer/Plotter``` (Day ```6```) ,  ``` A Smart Watch ``` (Day ```7```) and ```6DOF Robotic Arm``` (Day ```2```).
 * 💡 **Interests:** Software Architecture, UI/UX Design, and a deep interest in PCB Design.
