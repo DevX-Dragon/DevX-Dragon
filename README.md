@@ -14,8 +14,8 @@
 Hey! I am DevX-Dragon. Or just Dragon. My real name is Abbadh.
 I'm a **self-taught developer** from Sri Lanka. I dedicate my time to building projects that are either highly functional or just plain fun. I don't have a single fav language. I pick the best tool for the job, whether it's for the web, mobile, or desktop.
 
-* 🚀 **Current Project:** Working on `nothing`
-* 💡 **Interests:** Software Architecture, UI/UX Design, and a deep interest in PCB Design.
+* 🚀 **Current Project:** Working on `a SoC based Macro Pad` `day 11`
+* 💡 **Interests:** Making Key Boards / Macropads . Web Designing , etc
 * 🎓 **Education:** 14-year-old student balancing school and code.
 * 📫 **Reach me:** [tempzdragon@gmail.com](mailto:tempzdragon@gmail.com)
 
