@@ -18,7 +18,7 @@ I'm a **self-taught developer** from Sri Lanka. I dedicate my time to building p
 * 💡 **Interests:** Making Key Boards / Macropads . Web Designing , etc
 * 🎓 **Education:** 14-year-old student balancing school and code.
 * 📫 **Reach me:** [tempzdragon@gmail.com](mailto:tempzdragon@gmail.com)
-
+* 🔥 Hacking for **Hack Club Sri Lanka**
 ---
 
 ### 🛠️ Programming & Tools
