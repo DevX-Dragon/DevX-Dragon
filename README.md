@@ -48,10 +48,7 @@ I'm a **self-taught developer** from Sri Lanka. I dedicate my time to building p
 ---
 
 ### 📊 Dragon's Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devx-dragon&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devx-dragon&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Coding Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=23982&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 ---
 
